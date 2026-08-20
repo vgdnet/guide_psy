@@ -11,10 +11,14 @@
             "id": "eaa01eef223bed5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия"
             }
           }
         ]
@@ -194,6 +198,10 @@
   },
   "active": "eaa01eef223bed5d",
   "lastOpenFiles": [
+    "Без названия.md",
+    "стыд.md",
+    "о мамке.md",
+    "невроз.md",
     "tag_нарциссизм.md",
     "о папке.md",
     "вариант А — карточки/Депрессивная позиция (А).md",
