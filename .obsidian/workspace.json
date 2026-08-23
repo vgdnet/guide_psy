@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Карта_связей.md",
+                "file": "tag_группа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Карта_связей"
+              "title": "tag_группа"
             }
           }
         ]
@@ -199,6 +199,9 @@
   },
   "active": "aa9c105216198be0",
   "lastOpenFiles": [
+    "1086_2026-02-21.md",
+    "tag_группа.md",
+    "Карта_связей.md",
     "tag_реестр.md",
     "tag_психотерапия.md",
     "tag_психосоматика.md",
@@ -222,9 +225,6 @@
     "tag_нарциссизм.md",
     "tag_наркомания.md",
     "tag_мужчины.md",
-    "tag_мужчина.md",
-    "tag_Москва.md",
-    "tag_методология.md",
     "Без названия.base",
     "вариант А — карточки"
   ]

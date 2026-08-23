@@ -1,0 +1,31 @@
+.unlink-on-delete-list {
+	max-height: 40vh;
+	overflow-y: auto;
+	margin: var(--size-4-2) 0;
+	padding-left: var(--size-4-5);
+}
+
+.unlink-on-delete-list li {
+	margin-bottom: var(--size-2-2);
+}
+
+.unlink-on-delete-path {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-smaller);
+	word-break: break-all;
+}
+
+.unlink-on-delete-count {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+.unlink-on-delete-hint {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+.unlink-on-delete-reason {
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
