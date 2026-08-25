@@ -193,8 +193,7 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "aa9c105216198be0",
