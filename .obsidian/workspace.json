@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d371f5f47b26e13",
+        "id": "1724cfa01d73ebe9",
         "type": "tabs",
         "children": [
           {
-            "id": "39b289a0296c490d",
+            "id": "0c8f090ae5091c69",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39b289a0296c490d",
+  "active": "0c8f090ae5091c69",
   "lastOpenFiles": [
     "tag_группа.md",
     "1086_2026-02-21.md",
