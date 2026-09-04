@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
+                "file": "GraphNotes/Читай меня.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Карточка с длинным названием не входит в кружочек"
+              "title": "Читай меня"
             }
           }
         ]
@@ -196,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e3edb2644ccab80",
+  "active": "39b289a0296c490d",
   "lastOpenFiles": [
-    "GraphNotes/Читай меня.md",
     "GraphNotes/Ризома.md",
     "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
+    "tag_аддикция.md",
+    "GraphNotes/Читай меня.md",
     "GraphNotes/о мамке.md",
     "GraphNotes/источники.md",
     "GraphNotes/вариант А — карточки/Паранойя (А).md",
@@ -225,7 +226,6 @@
     "психоанализ в СССР.md",
     "психотерапия.md",
     "Садистическая мать.md",
-    "Семья с деньгами.md",
     "Без названия.base",
     "вариант А — карточки"
   ]
